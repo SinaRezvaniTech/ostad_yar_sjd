@@ -1,0 +1,7 @@
+{
+  "db": {
+    "address": "mongodb://127.0.0.1:27017/quiz",
+    "auth": {}
+  },
+  "botToken": "1:1"
+}

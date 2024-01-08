@@ -1,0 +1,19 @@
+{
+  "name": "airdrop",
+  "baseUrl": "https://airdrop.com",
+
+  "jwt-key": "1tts*U*222d5*olsd19=jd8*s&h552",
+  "acces-token": "hw3@s2$%332*olsd#j433&259*j456&&52",
+  "db": {
+    "address": "mongodb://127.0.0.1:27017/quiz",
+    "auth": {
+      "useNewUrlParser": true,
+      "useUnifiedTopology": true,
+      "auth": { "authSource": "admin" },
+      "user": "quiz",
+      "pass": "quiz"
+    }
+  },
+
+  "botToken": "1:1"
+}
