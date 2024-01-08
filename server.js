@@ -28,7 +28,6 @@ mongoose
 // controllers
 const admin = require('./src/routes/admin')
 const user = require('./src/routes/user')
-
 //listeners ____________________________________________________________
 bot.onText(/\/start/, async (msg) => {
   bot.sendMessage(msg.chat.id, `❤️ به ربات آزمون ساز سجاد خوش آمدید`)
