@@ -5,15 +5,13 @@
   "jwt-key": "1tts*U*222d5*olsd19=jd8*s&h552",
   "acces-token": "hw3@s2$%332*olsd#j433&259*j456&&52",
   "db": {
-    "address": "mongodb://admin:sina@194.31.109.237:27017",
+    "address": "mongodb://194.31.109.237:27017/quiz",
     "auth": {
-      "useNewUrlParser": true,
-      "useUnifiedTopology": true,
       "auth": { "authSource": "admin" },
-      "user": "admin",
-      "pass": "sina"
+      "user": "sajad",
+      "pass": "Sajjad2017@#"
     }
   },
 
-  "botToken": "1:1"
+  "botToken": "6204330424:AAHu3nszSdf8GwTNKcP3VGZ0I5HK7LzFwuk"
 }
